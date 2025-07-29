@@ -18,7 +18,7 @@ A fun, interactive number guessing game built with **Flask**, **HTML**, **CSS**,
 ## 📸 Preview
 
 <img width="400" height="350" alt="Screenshot 2025-07-29 195303" src="https://github.com/user-attachments/assets/0fea6f87-d1a9-44fc-86fe-4b8c92303da3" />
-<img width="500" height="700" alt="Screenshot 2025-07-29 195056" src="https://github.com/user-attachments/assets/17cb10e8-f9be-49d3-ba4c-454406e363ca" />
+<img width="500" height="600" alt="Screenshot 2025-07-29 195056" src="https://github.com/user-attachments/assets/17cb10e8-f9be-49d3-ba4c-454406e363ca" />
 
 
 
