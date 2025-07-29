@@ -15,6 +15,13 @@ A fun, interactive number guessing game built with **Flask**, **HTML**, **CSS**,
 
 ---
 
+## 📸 Preview
+
+<img width="1013" height="724" alt="Screenshot 2025-07-29 195303" src="https://github.com/user-attachments/assets/0fea6f87-d1a9-44fc-86fe-4b8c92303da3" />
+
+
+---
+
 
 ## 🛠️ Tech Stack
 
